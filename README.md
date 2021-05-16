@@ -26,4 +26,9 @@ This is an front end project by using reactjs
  
  ![TAJ MAHAL](https://images.theconversation.com/files/228846/original/file-20180723-189310-1ymcybu.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
  
- [github](https://www.python.org/)
+ [Google](https://www.python.org/)
+ 
+ ~~~python
+ def fun();
+ printf(hai);
+ ~~~
