@@ -8,14 +8,18 @@ This is an front end project by using reactjs
 **font style in bold**
 ***font style in both italic and bold***
 # unordered list
+
 * fruties as unordered list name
 * vegetables
+
   * carrot
   * potato
   * onions
 # Ordered List
+
 1. Alphabets
 2. Digits
+
     1. whole numbers
     2. natural numbers
     3. intgers
