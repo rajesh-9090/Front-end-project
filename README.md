@@ -13,7 +13,7 @@ This is an front end project by using reactjs
   * carrot
   * potato
   * onions
-## Ordered List
+# Ordered List
 1. Alphabets
 2. Digits
     1. whole numbers
