@@ -19,3 +19,5 @@ This is an front end project by using reactjs
     1. whole numbers
     2. natural numbers
     3. intgers
+ 
+ ![TAJ MAHAL](https://images.theconversation.com/files/228846/original/file-20180723-189310-1ymcybu.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
