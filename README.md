@@ -32,3 +32,7 @@ This is an front end project by using reactjs
  def fun();
  printf(hai);
  ~~~
+ 
+ table 1 | table 2
+ --------|--------
+ table body 1|table body 2
